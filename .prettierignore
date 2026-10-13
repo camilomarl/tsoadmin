@@ -1,0 +1,8 @@
+node_modules/
+dist/
+src/generated/
+.adminjs/
+coverage/
+package-lock.json
+.env
+.env.*
